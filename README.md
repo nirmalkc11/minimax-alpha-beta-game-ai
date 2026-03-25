@@ -22,3 +22,7 @@ This project implements an AI agent to play the Red-Blue Nim game using adversar
 ## How to Run
 ```bash
 python red_blue_nim.py <num-red> <num-blue> [standard|misere] [computer|human] [depth]
+
+## Examples
+python red_blue_nim.py 5 5 standard computer
+python red_blue_nim.py 5 5 misere human 3
